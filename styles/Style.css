@@ -1,0 +1,17 @@
+@charset "utf-8";
+* 						{margin: 0; padding: 0;}
+body						{font: 16px Georgia, serif;}
+
+#page-wrap				{margin: 2% auto; color: rgb(97, 99, 9);}
+#page-wrap >.main 		{border: 1px solid rgb(153, 153, 153); padding: 1%;
+						 margin-bottom: 1px; color: black;}
+
+section > div				{padding: 5px;}
+header, nav, section		{background: #FFF; text-align: center;}
+footer					{background: rgb(238, 238, 238); text-align: center;}
+nav span             				{ margin: 0px 10px 0px 0px;
+						width: 100%;
+						display: inline-block;}
+
+						
+#ErrorMsgs          		 { color: rgb(17, 168, 255); font-size: smaler}
